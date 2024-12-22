@@ -1,4 +1,4 @@
-# Rad Recipe Machine - Recipe Scaling Tool
+# Rad Recipe Machine / PortionWizard (name in progress...)
 
 A vibrant, retro-styled web application built with vanilla JavaScript that helps users scale recipe ingredients up or down. This interactive tool features a playful design with bold colors, dynamic animations, and practical functionality for recipe management.
 
